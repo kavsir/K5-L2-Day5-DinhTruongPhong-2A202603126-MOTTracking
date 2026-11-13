@@ -8,7 +8,7 @@
 - MSSV: 2A202603126
 - Mã đề (A/B/C): A
 - Email: 26ai.phongdt@vinuni.edu.vn
-- Link repository: https://github.com/VinUni-AI20k/K5-L2-Day5-DinhTruongPhong-2A202603126-MOTTracking
+- Link repository: https://github.com/kavsir/K5-L2-Day5-DinhTruongPhong-2A202603126-MOTTracking.git
 - Giờ bắt đầu: 16:30
 - Giờ kết thúc: 17:50
 
